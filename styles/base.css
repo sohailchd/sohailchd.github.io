@@ -1,25 +1,29 @@
 body {
     margin-left: 10pc;
     margin-right: 8pc;
-   
 }
 
 .header {
-    color: black;
+    color: #ffffff;
+    background-color: #212121;
     text-decoration: none !important;
     font-family: 'Courier New', Courier, monospace;
-    background-color: white;
     margin: 3px;
+    padding: 1pc;
 }
 
 .header a {
     text-decoration: none !important;
-    color: dimgray;
+    color: #ffffff;
 }
 .header h2 {
     margin-bottom: 2px;
 }
 
 .content {
-    margin: 3px;
+    margin-top: 1pc;
+    margin: 1px;
+    padding: 1pc;
+    background-color: #ffffff;
+    font-size: 1.1pc;
 }

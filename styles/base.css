@@ -8,7 +8,7 @@ body {
     /* color: #ffffff; */
     /* background-color: #212121; */
     text-decoration: none !important;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
     margin: 3px;
     padding: 1pc;
     
@@ -28,5 +28,5 @@ body {
     margin: 1px;
     padding: 1pc;
     background-color: #ffffff;
-    font-size: 1.1pc;
+    font-size: 1pc;
 }

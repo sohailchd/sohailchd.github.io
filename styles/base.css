@@ -11,7 +11,17 @@ body {
     /* font-family: 'Courier New', Courier, monospace; */
     margin: 3px;
     padding: 1pc;
-    
+    font-size: 1pc;
+}
+
+.headerblog {
+    /* color: #ffffff; */
+    /* background-color: #212121; */
+    text-decoration: none !important;
+    /* font-family: 'Courier New', Courier, monospace; */
+    margin: 3px;
+    padding: 1pc;
+    font-size: 1pc;
 }
 
 .header a {
@@ -19,6 +29,14 @@ body {
     color: black;
     /* text-shadow: 2px 2px 4px #000000; */
 }
+
+.headerblog a {
+    margin-left: 10pc;
+    text-decoration: none !important;
+    color: black;
+    /* text-shadow: 2px 2px 4px #000000; */
+}
+
 .header h2 {
     margin-bottom: 2px;
 }
@@ -30,3 +48,10 @@ body {
     background-color: #ffffff;
     font-size: 1pc;
 }
+
+/* div.frame{
+    width:50%;
+    height:50%;
+    padding: 1pc;
+    /* border:solid #000 1px; */
+/* }  */

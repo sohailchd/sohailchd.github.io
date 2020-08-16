@@ -57,3 +57,25 @@ table.bioinformatics td, th {
 
 /* testing*/
 table.bioinformatics tr:nth-child(even) {background-color: #f2f2f2;}
+
+table.algorithmic {
+    width: 100%;
+}
+
+table.algorithmic td, th {
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* testing*/
+table.algorithmic tr:nth-child(even) {background-color: #f2f2f2;}
+
+
+
+table.notebook td, th {
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* testing*/
+table.notebook tr:nth-child(even) {background-color: #f2f2f2;}

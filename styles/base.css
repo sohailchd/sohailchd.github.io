@@ -79,3 +79,8 @@ table.notebook td, th {
 
 /* testing*/
 table.notebook tr:nth-child(even) {background-color: #f2f2f2;}
+
+.contact {
+    align-content: right;
+    align-self: flex-end;
+}
